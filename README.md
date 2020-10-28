@@ -1,2 +1,2 @@
-# group_project_1
+# Group Project 1
 Berkeley Fintech Bootcamp's first group project
