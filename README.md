@@ -1,2 +1,2 @@
-# Group Project 1
+# Binocular
 Berkeley Fintech Bootcamp's first group project
