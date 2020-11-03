@@ -1,104 +1,104 @@
-﻿region_id,region_type,region,,,,
-417528,neigh,Little Hollywood,,,,
-417527,neigh,Silver Terrace,,,,
-417525,neigh,Clarendon Heights,,,,
-417524,neigh,Buena Vista,,,,
-417523,neigh,Alamo Square,,,,
-417522,neigh,Panhandle,,,,
-417521,neigh,Anza Vista,,,,
-417520,neigh,Laurel Heights,,,,
-417519,neigh,Corona Heights,,,,
-417518,neigh,Duboce Triangle,,,,
-417516,neigh,Golden Gate Heights,,,,
-417513,neigh,Westwood Highlands,,,,
-417512,neigh,Monterey Heights,,,,
-417511,neigh,St. Francis Wood,,,,
-417510,neigh,Westwood Park,,,,
-417509,neigh,Mount Davidson Manor,,,,
-417508,neigh,Balboa Terrace,,,,
-417507,neigh,Ingleside Heights,,,,
-417504,neigh,Merced Manor,,,,
-417501,neigh,Lower Pacific Heights,,,,
-417498,neigh,Midtown Terrace,,,,
-417496,neigh,Mission Terrace,,,,
-417494,neigh,Ingleside Terrace,,,,
-417493,neigh,Tenderloin,,,,
-417492,neigh,North Waterfront,,,,
-415247,neigh,Sunnyside,,,,
-275789,neigh,Upper Market,,,,
-274872,neigh,Oceanview,,,,
-274552,neigh,Mission,,,,
-274422,neigh,Marina,,,,
-274246,neigh,Lakeshore,,,,
-273404,neigh,Crocker Amazon,,,,
-272885,neigh,Bayview,,,,
-268570,neigh,Visitacion Valley,,,,
-268517,neigh,Telegraph Hill,,,,
-268491,neigh,South of Market,,,,
-268462,neigh,Seacliff,,,,
-268450,neigh,Russian Hill,,,,
-268419,neigh,Presidio Heights,,,,
-268414,neigh,Potrero Hill,,,,
-268396,neigh,Parkside,,,,
-268385,neigh,Pacific Heights,,,,
-268384,neigh,Outer Sunset,,,,
-268383,neigh,Outer Richmond,,,,
-268382,neigh,Outer Mission,,,,
-268338,neigh,Noe Valley,,,,
-268337,neigh,Nob Hill,,,,
-268305,neigh,Mission Bay,,,,
-268303,neigh,Miraloma Park,,,,
-268220,neigh,Inner Sunset,,,,
-268219,neigh,Inner Richmond,,,,
-268218,neigh,Hunters Point,,,,
-268206,neigh,Hayes Valley,,,,
-268201,neigh,Haight,,,,
-268177,neigh,Glen Park,,,,
-268156,neigh,Financial District,,,,
-268150,neigh,Excelsior,,,,
-268114,neigh,Downtown,,,,
-268110,neigh,Diamond Heights,,,,
-268096,neigh,Cow Hollow,,,,
-268020,neigh,Bernal Heights,,,,
-256657,neigh,Lake,,,,
-255961,neigh,Forest Hill,,,,
-251072,neigh,Stonestown,,,,
-227971,neigh,Lone Mountain,,,,
-223174,neigh,Sherwood Forest,,,,
-207518,neigh,South Beach,,,,
-118904,neigh,Western Addition,,,,
-118310,neigh,Parkmerced,,,,
-117447,neigh,Portola,,,,
-116918,neigh,North Beach,,,,
-115774,neigh,Ingleside,,,,
-115133,neigh,Forest Knolls,,,,
-114291,neigh,Chinatown,,,,
-35760,neigh,Presidio,,,,
-20330,city,San Francisco,,,,
-395057,metro,"San Francisco, CA",,,,
-97557,zip,94102,,,,
-97558,zip,94103,,,,
-97559,zip,94104,,,,
-97560,zip,94105,,,,
-97562,zip,94107,,,,
-97563,zip,94108,,,,
-97564,zip,94109,,,,
-97565,zip,94110,,,,
-97566,zip,94111,,,,
-97567,zip,94112,,,,
-97568,zip,94114,,,,
-97569,zip,94115,,,,
-97570,zip,94116,,,,
-97571,zip,94117,,,,
-97572,zip,94118,,,,
-97575,zip,94121,,,,
-97576,zip,94122,,,,
-97577,zip,94123,,,,
-97578,zip,94124,,,,
-97581,zip,94127,,,,
-97583,zip,94129,,,,
-97585,zip,94131,,,,
-97586,zip,94132,,,,
-97587,zip,94133,,,,
-97588,zip,94134,,,,
-97610,zip,94158,,,,
+﻿region_id,region_type,region
+417528,neigh,Little Hollywood
+417527,neigh,Silver Terrace
+417525,neigh,Clarendon Heights
+417524,neigh,Buena Vista
+417523,neigh,Alamo Square
+417522,neigh,Panhandle
+417521,neigh,Anza Vista
+417520,neigh,Laurel Heights
+417519,neigh,Corona Heights
+417518,neigh,Duboce Triangle
+417516,neigh,Golden Gate Heights
+417513,neigh,Westwood Highlands
+417512,neigh,Monterey Heights
+417511,neigh,St. Francis Wood
+417510,neigh,Westwood Park
+417509,neigh,Mount Davidson Manor
+417508,neigh,Balboa Terrace
+417507,neigh,Ingleside Heights
+417504,neigh,Merced Manor
+417501,neigh,Lower Pacific Heights
+417498,neigh,Midtown Terrace
+417496,neigh,Mission Terrace
+417494,neigh,Ingleside Terrace
+417493,neigh,Tenderloin
+417492,neigh,North Waterfront
+415247,neigh,Sunnyside
+275789,neigh,Upper Market
+274872,neigh,Oceanview
+274552,neigh,Mission
+274422,neigh,Marina
+274246,neigh,Lakeshore
+273404,neigh,Crocker Amazon
+272885,neigh,Bayview
+268570,neigh,Visitacion Valley
+268517,neigh,Telegraph Hill
+268491,neigh,South of Market
+268462,neigh,Seacliff
+268450,neigh,Russian Hill
+268419,neigh,Presidio Heights
+268414,neigh,Potrero Hill
+268396,neigh,Parkside
+268385,neigh,Pacific Heights
+268384,neigh,Outer Sunset
+268383,neigh,Outer Richmond
+268382,neigh,Outer Mission
+268338,neigh,Noe Valley
+268337,neigh,Nob Hill
+268305,neigh,Mission Bay
+268303,neigh,Miraloma Park
+268220,neigh,Inner Sunset
+268219,neigh,Inner Richmond
+268218,neigh,Hunters Point
+268206,neigh,Hayes Valley
+268201,neigh,Haight
+268177,neigh,Glen Park
+268156,neigh,Financial District
+268150,neigh,Excelsior
+268114,neigh,Downtown
+268110,neigh,Diamond Heights
+268096,neigh,Cow Hollow
+268020,neigh,Bernal Heights
+256657,neigh,Lake
+255961,neigh,Forest Hill
+251072,neigh,Stonestown
+227971,neigh,Lone Mountain
+223174,neigh,Sherwood Forest
+207518,neigh,South Beach
+118904,neigh,Western Addition
+118310,neigh,Parkmerced
+117447,neigh,Portola
+116918,neigh,North Beach
+115774,neigh,Ingleside
+115133,neigh,Forest Knolls
+114291,neigh,Chinatown
+35760,neigh,Presidio
+20330,city,San Francisco
+395057,metro,"San Francisco, CA"
+97557,zip,94102
+97558,zip,94103
+97559,zip,94104
+97560,zip,94105
+97562,zip,94107
+97563,zip,94108
+97564,zip,94109
+97565,zip,94110
+97566,zip,94111
+97567,zip,94112
+97568,zip,94114
+97569,zip,94115
+97570,zip,94116
+97571,zip,94117
+97572,zip,94118
+97575,zip,94121
+97576,zip,94122
+97577,zip,94123
+97578,zip,94124
+97581,zip,94127
+97583,zip,94129
+97585,zip,94131
+97586,zip,94132
+97587,zip,94133
+97588,zip,94134
+97610,zip,94158
